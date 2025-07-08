@@ -4,7 +4,7 @@
 ## 2025-07-08
 
 ### Recommended Folder Structure for a React + TypeScript Project
-
+```
 my-project/
 ├── public/                 # Static files (index.html, favicon, etc.)
 ├── src/                    # Main source code
@@ -45,7 +45,7 @@ my-project/
 ├── package.json
 ├── tsconfig.json
 └── README.md
-
+```
 React와 TypeScript 프로젝트에서 폴더 구조를 잘 설계하는 것은 유지보수성과 확장성에 매우 중요합니다. 
 
 #### 주요 특징과 이유
