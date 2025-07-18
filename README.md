@@ -1,6 +1,24 @@
 # Today I Learned
 
 
+## 2025-07-18
+### Machine Learning 내용 정리
+#### 머신러닝
+    - 지도학습 [2025-06-27 지도학습 참고](https://github.com/WooGongSB/WooGong-TIL/blob/main/2025/06/README.md)
+
+    - 비지도학습
+        - 정답 혹은 레이블이 주어지지 않는 상태에서의 학습방법
+        - 비슷한 데이터를 그룹화하거나 데이터의 숨겨진 특징(Feature)을 추출하여 지도학습의 전처리 단계로 사용하기도 함.
+        - 정답이 없기 때문에 모델 결과에 대해 분석가가 직접 개입하여 해석해야하는 경우가 많음.
+
+        - 군집화 (Clustering)
+            - 데이터를 분류하기 위한 명확한 기준이 존재하지 않은 상태에서 특징이 유사한 데이터끼리 묶어 여러개의 군집(클러스터, 부분 또는 그룹) 으로 나누는 방법
+            - 군집의 개수는 분석 목적에 따라 사전에 정의하거나 군집 정도를 나타내는 지표(Dunn Index, Silhouette 등)을 참고하여 정할 수 있음.
+            - 군집화의 원래
+                - 군집 내 응집도 최대화 : 동일한 군집에 소속된 개체들은 서로 유사할 수록 좋음
+                - 군집 간 분리도 최대화 : 상이한 군집에 소속된 개체들은 서로 다를 수록 좋음
+
+
 ## 2025-07-08
 
 ### Recommended Folder Structure for a React + TypeScript Project
@@ -78,3 +96,4 @@ React와 TypeScript 프로젝트에서 폴더 구조를 잘 설계하는 것은 
 
 ---
 ## [2025-06](https://github.com/WooGongSB/WooGong-TIL/blob/main/2025/06/README.md)
+
