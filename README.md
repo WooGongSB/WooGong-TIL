@@ -3,8 +3,8 @@
 
 ## 2025-07-18
 ### Machine Learning 내용 정리
-#### 머신러닝
-    - 지도학습 [2025-06-27 지도학습 참고](https://github.com/WooGongSB/WooGong-TIL/blob/main/2025/06/README.md)
+- 머신러닝
+    - 지도학습 :  [2025-06-27 지도학습 참고](https://github.com/WooGongSB/WooGong-TIL/blob/main/2025/06/README.md)
 
     - 비지도학습
         - 정답 혹은 레이블이 주어지지 않는 상태에서의 학습방법
