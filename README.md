@@ -17,6 +17,17 @@
             - 군집화의 원래
                 - 군집 내 응집도 최대화 : 동일한 군집에 소속된 개체들은 서로 유사할 수록 좋음
                 - 군집 간 분리도 최대화 : 상이한 군집에 소속된 개체들은 서로 다를 수록 좋음
+        - 차원축소 (Dimentionality Reduction)
+            - 입력변수의 갯수가 많다는 말은 해당 공간을 설명하기 위해서는 학습데이터가 많이 필요하다는 것을 의미
+            - 불필요한 변수가 포함된다면 모델의 성능에 악영향을 줄수있고 이러한 현상을 차원의 저주 (The Curse of Dimentionality) 라고 한다.
+            - 차원의 저주를 완화하는 방법 : 
+                - 변수 선택 (Feature Selection) : 일부 변수만 선택하여 학습에 사용
+                - 변수 추출 (Feature Extraction) : 변수를 조합하여 새로운 변수로 재구성
+            - 차원 축소 방법론 : 
+                - PCA (Principal Component Analysis)
+                - 다차원 척도법 (Multi-Dimentional Scaliling MDS)
+                - LLE (Locally Linear Embedding)
+                - t-SNE (t-Stochastic Neighbor Embedding)
 
 
 ## 2025-07-08
